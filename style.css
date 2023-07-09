@@ -46,7 +46,6 @@ nav a{
     background-image: url(icon/header_bg.png);
     background-repeat: no-repeat;
     background-position: bottom right;
-
 }
 .banner{
     margin: 30px 30px 0 150px;
@@ -80,7 +79,72 @@ nav a{
     margin-bottom: 20px;
 }
 .banner-description{
-    font-size: 20px;
+    font-size: 17px;
     font-weight: 700;
     margin-bottom: 20px;
+
+/* <!-- this is a main section-1 --> */
+
+}
+.about{
+    text-align: center;
+    padding: 0 50px;
+}
+.about-link{
+    display: flex;
+    text-align: center;
+    justify-content: space-around;
+
+}
+.about-paragarp{
+    font-weight: bolder;
+    font-size: 18px;
+}
+.section-1{
+    padding: 0 240px;
+    text-align: center;
+    margin: 150px 0;
+}
+.about-bg{
+
+}
+
+/* section what I do? */
+
+.what-space{
+    margin: 150px 0;
+}
+.class-what{
+    display: flex;
+    text-align: center;
+    justify-content: space-around;
+}
+.soical-site{
+    display: flex;
+    text-align: center;
+    justify-content: space-around;
+}
+.class-what-do{
+
+}
+.soical-site-h{
+
+}
+.soical-site-paragraph{
+    font-size: 15px;
+    padding: 20px;
+    text-align: left;
+}
+
+/* section Resume Part */
+.resume{
+    display: flex;
+    text-align: center;
+    justify-content: space-around;
+}
+.resume-education{
+    
+}
+.rusme-list{
+    
 }
