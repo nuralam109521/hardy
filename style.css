@@ -15,6 +15,9 @@ nav {
     font-size: 45px;
     font-weight: 800;
 }
+.nav-bold{
+    font-weight: bolder;
+}
 .h3-text{
     color: #FD6E0A;
 }
@@ -113,7 +116,7 @@ nav a{
 /* section what I do? */
 
 .what-space{
-    margin: 150px 0;
+    margin: 130px 0;
 }
 .class-what{
     font-size: 30px;
@@ -125,6 +128,7 @@ nav a{
     display: flex;
     text-align: center;
     justify-content: space-around;
+    padding: 35px 0;
 }
 .class-what-do{
 
@@ -169,4 +173,28 @@ nav a{
 }
 .resume-head{
     font-size: 30px;
+}
+.download-CV{
+    text-align: center;
+    margin: 30px;
+    background-color: #FD6E0A;
+    border-radius: 5px;
+    border: 0;
+    font-size: 20px;
+    font-weight: 700;
+    color: white;
+    padding: 10px 20px;
+}
+footer{
+    display: flex;
+    background: white;
+    margin-top: 50px;
+    padding: 130px 100px;
+    gap: 100px;
+}
+.footer-first{
+
+}
+.footer-second{
+    width: 50%;
 }
